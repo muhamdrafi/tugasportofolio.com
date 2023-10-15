@@ -1,0 +1,41 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background-color: darkgray;
+}
+
+h2{
+	font-family: times new roman;
+	font-size: 40px;
+	margin-top: auto;
+}
+
+h3, h4, h5{
+	background-color: darkgoldenrod;
+	font-family: times new roman;
+	font-size: 25px;
+	margin-top: 20px;
+}
+
+h6{
+	background-color: darkgoldenrod;
+	font-family: times new roman;
+	font-size: 25px;
+	margin-top: 20px;
+}
+img{
+	margin-top: -30px;
+}
+
+p{
+	margin-top: -15px;
+	font-family: times new roman;
+}
+
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
